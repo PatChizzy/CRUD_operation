@@ -1,0 +1,5 @@
+CREATE TABLE `course` (
+  `id` int(255) NOT NULL,
+  `name` varchar(255) NOT NULL,
+  `code` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
